@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trpo_rgz", "trpo_rgz\trpo_rgz.csproj", "{832F3183-67F7-481B-843D-CE53DBA2E186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polynom.Tests", "Polynom.Tests\Polynom.Tests.csproj", "{2183F049-18BC-4D30-BA34-01D7DDC613FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832F3183-67F7-481B-843D-CE53DBA2E186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832F3183-67F7-481B-843D-CE53DBA2E186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832F3183-67F7-481B-843D-CE53DBA2E186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832F3183-67F7-481B-843D-CE53DBA2E186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2183F049-18BC-4D30-BA34-01D7DDC613FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2183F049-18BC-4D30-BA34-01D7DDC613FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2183F049-18BC-4D30-BA34-01D7DDC613FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2183F049-18BC-4D30-BA34-01D7DDC613FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE351044-18D1-4F20-9B16-B9504D294036}
+	EndGlobalSection
+EndGlobal
